@@ -2,13 +2,13 @@
 {{> post-info post }}
 
 {{#if loggedIn}}
-<form class="comment-form">
-    <div>
+<form class="box" id="comment-form">
+    <div class="field">
         <textarea name="comment-body"></textarea>
     </div>
 
-    <div>
-        <button type="submit">add comment</button>
+    <div class="field">
+        <button type="submit" class="button is-success">Add Comment</button>
     </div>
 </form>
 {{/if}}

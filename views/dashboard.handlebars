@@ -1,17 +1,17 @@
 {{#if posts.length}}
-<section>
+<section class="box">
     <h2>Your Posts</h2>
-    <ol>
+    <div class="field">
         {{#each posts as |post|}}
-        <li>
+        <div>
             {{> post-info post}}
             <a href="/dashboard/edit/{{post.id}}" class="edit-link">Edit post</a>
-        </li>
+        </div>
         {{/each}}
-    </ol>
+    </div>
 </section>
 {{/if}}
 
-<button type="submit" class="btn"><a class="link" href="/dashboard/new">+</a></button>
+<button type="submit" class="button is-success"><a class="link" href="/dashboard/new">+</a></button>
 
 <script src="/javascript/add-post.js"></script>

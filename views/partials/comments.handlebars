@@ -1,10 +1,10 @@
-<div class="comments">
+<div class="box" id="comments">
     {{#each this}}
     <section class="comment">
-        <div class="meta">
+        <div class="field">
             {{user.username}} on {{format_date created_at}}
         </div>
-        <div class="text">
+        <div class="field">
             {{comment_text}}
         </div>
     </section>
