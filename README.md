@@ -1,5 +1,7 @@
 # Tech-Talk Blog
-  ![made-with](https://img.shields.io/badge/Made%20with-CSS,JavaScript,Node.js-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-Node.js-1f425f.svg)
   ![GitHub issues](https://img.shields.io/github/issues/jessicalhille@gmail.com/tech-talk)
   ![GitHub branches](https://badgen.net/github/branches/jessicalhille@gmail.com/tech-talk)
   ![GitHub contributors](https://img.shields.io/github/contributors/jessicalhille@gmail.com/tech-talk)
