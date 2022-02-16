@@ -2,9 +2,9 @@
   ![made-with](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-Node.js-1f425f.svg)
-  ![GitHub issues](https://img.shields.io/github/issues/jessicalhille@gmail.com/tech-talk)
-  ![GitHub branches](https://badgen.net/github/branches/jessicalhille@gmail.com/tech-talk)
-  ![GitHub contributors](https://img.shields.io/github/contributors/jessicalhille@gmail.com/tech-talk)
+  ![GitHub issues](https://img.shields.io/github/issues/jessicalhille/tech-talk)
+  ![GitHub branches](https://badgen.net/github/branches/jessicalhille/tech-talk)
+  ![GitHub contributors](https://img.shields.io/github/contributors/jessicalhille/tech-talk)
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
 
@@ -17,16 +17,28 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Credits](#credits)
   * [License](#license)
   * [Questions](#questions)
 
   ## Installation
-  To use this application, please install:
+  To use this application, please run the following on your command line:
+  * npm init
   * npm install
 
   ## Usage
-  create account, log in, post freely!
+  After cloning this repository to your local device and installing the packages listed above, first create a .env file in the root of the folder and add this code to the file:
+  
+  * DB_NAME='workout_tracker_db'
+  * DB_USER='< your SQL user >'
+  * DB_PW='< your SQL password >'
+  
+  Then, run the following commands in the root of your project:
+  * mysql -u root -p (enter password when prompted)
+  * source db/schema.sql
+  * quit
+  * npm start (run the application on your localhost:3001)
+  
+  There are seed files located in this project. If you would like to use the seed files, simply type 'npm run seed' in the command line before starting the application.
   ### Screenshot of Deployed Application
   ![Screenshot](undefined)
 
@@ -36,13 +48,10 @@
   ## Tests
   No tests required for this application.
 
-  ## Credits
-  None.
-
   ## License
   This project is licensed under the MIT license.
 
   ## Questions
   If you have any questions about this project, please contact me directly at jessicalhille@gmail.com.
-  You can view more of my projects at https://github.com/jessicalhille@gmail.com.
+  You can view more of my projects at https://github.com/jessicalhille.
 
