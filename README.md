@@ -2,6 +2,7 @@
   ![made-with](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ![made-with](https://img.shields.io/badge/Made%20with-Node.js-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-Handlebars-1f425f.svg)
   ![GitHub issues](https://img.shields.io/github/issues/jessicalhille/tech-talk)
   ![GitHub branches](https://badgen.net/github/branches/jessicalhille/tech-talk)
   ![GitHub contributors](https://img.shields.io/github/contributors/jessicalhille/tech-talk)
@@ -10,7 +11,7 @@
 
   ## Description
   A CMS-style blog sit similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' posts as well.
-  ##### Link to Deployed Application: no
+  ##### Link to Deployed Application: 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -40,7 +41,15 @@
   
   There are seed files located in this project. If you would like to use the seed files, simply type 'npm run seed' in the command line before starting the application.
   ### Screenshot of Deployed Application
-  ![Screenshot](undefined)
+  Homepage
+  <img width="973" alt="Screen Shot 2022-02-15 at 10 57 54 PM" src="https://user-images.githubusercontent.com/91511805/154199204-71706a81-7bd3-418e-bf43-e52dd48a00d3.png">
+  
+  Single-Post view with comments
+  <img width="973" alt="Screen Shot 2022-02-15 at 10 59 08 PM" src="https://user-images.githubusercontent.com/91511805/154199268-b6422d91-fd49-46cc-b092-1884531ac58f.png">
+  
+  Personal dashboard after a user logs in
+  <img width="978" alt="Screen Shot 2022-02-15 at 10 59 23 PM" src="https://user-images.githubusercontent.com/91511805/154199319-4da04908-8ab8-49dc-9d68-2ebc2040dbc9.png">
+
 
   ## Contributing
   No guidelines for contribution at this time.
