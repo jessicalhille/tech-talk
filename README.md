@@ -42,13 +42,16 @@
   There are seed files located in this project. If you would like to use the seed files, simply type 'npm run seed' in the command line before starting the application.
   ### Screenshot of Deployed Application
   Homepage
-  <img width="973" alt="Screen Shot 2022-02-15 at 10 57 54 PM" src="https://user-images.githubusercontent.com/91511805/154199204-71706a81-7bd3-418e-bf43-e52dd48a00d3.png">
+
+<img width="973" alt="Screen Shot 2022-02-15 at 10 57 54 PM" src="https://user-images.githubusercontent.com/91511805/154199204-71706a81-7bd3-418e-bf43-e52dd48a00d3.png">
   
   Single-Post view with comments
-  <img width="973" alt="Screen Shot 2022-02-15 at 10 59 08 PM" src="https://user-images.githubusercontent.com/91511805/154199268-b6422d91-fd49-46cc-b092-1884531ac58f.png">
+
+<img width="973" alt="Screen Shot 2022-02-15 at 10 59 08 PM" src="https://user-images.githubusercontent.com/91511805/154199268-b6422d91-fd49-46cc-b092-1884531ac58f.png">
   
   Personal dashboard after a user logs in
-  <img width="978" alt="Screen Shot 2022-02-15 at 10 59 23 PM" src="https://user-images.githubusercontent.com/91511805/154199319-4da04908-8ab8-49dc-9d68-2ebc2040dbc9.png">
+
+<img width="1358" alt="Screen Shot 2022-02-17 at 8 26 32 PM" src="https://user-images.githubusercontent.com/91511805/154605925-f095ec08-894f-4ad6-9ce8-43d279cdd3fe.png">
 
 
   ## Contributing
