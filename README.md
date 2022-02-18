@@ -11,7 +11,7 @@
 
   ## Description
   A CMS-style blog sit similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' posts as well.
-  ##### Link to Deployed Application: 
+  ##### Link to Deployed Application: https://agile-forest-43043.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
