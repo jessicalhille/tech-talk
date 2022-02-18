@@ -7,12 +7,16 @@
     "start": "node server.js",
     "seed": "node seeds/index.js"
   },
+  "engines": {
+    "node": "16.13.1",
+    "npm": "8.1.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessicalhille/tech-talk.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jessica Hille",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jessicalhille/tech-talk/issues"
   },
